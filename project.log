@@ -79,3 +79,18 @@
 2026-04-19 15:34:55 | INFO | P6 | Pipeline executed successfully!
 2026-04-19 15:34:55 | INFO | P6 | ========================
 2026-04-19 15:34:55 | INFO | P6 | END main()
+2026-04-19 15:37:21 | INFO | P6 | === RUN START ===
+2026-04-19 15:37:21 | INFO | P6 | project=CINTEL
+2026-04-19 15:37:21 | INFO | P6 | repo_dir=cintel-06-continuous-intelligence
+2026-04-19 15:37:21 | INFO | P6 | python=3.14.2
+2026-04-19 15:37:21 | INFO | P6 | os=Darwin 24.6.0
+2026-04-19 15:37:21 | INFO | P6 | shell=zsh
+2026-04-19 15:37:21 | INFO | P6 | cwd=.
+2026-04-19 15:37:21 | INFO | P6 | github_actions=False
+2026-04-19 15:37:21 | INFO | P6 | ========================
+2026-04-19 15:37:21 | INFO | P6 | START main()
+2026-04-19 15:37:21 | INFO | P6 | ========================
+2026-04-19 15:37:21 | INFO | P6 | ROOT_DIR = .
+2026-04-19 15:37:21 | INFO | P6 | DATA_FILE = data/system_metrics_custom.csv
+2026-04-19 15:37:21 | INFO | P6 | OUTPUT_FILE = artifacts/system_assessment_custom.csv
+2026-04-19 15:37:21 | INFO | P6 | ARTIFACTS_DIR = artifacts
