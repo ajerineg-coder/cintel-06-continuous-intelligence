@@ -65,7 +65,7 @@ ROOT_DIR: Final[Path] = Path.cwd()
 DATA_DIR: Final[Path] = ROOT_DIR / "data"
 ARTIFACTS_DIR: Final[Path] = ROOT_DIR / "artifacts"
 
-DATA_FILE: Final[Path] = DATA_DIR / "system_metrics_custom.csv"
+DATA_FILE: Final[Path] = DATA_DIR / "system_metrics_case.csv"
 OUTPUT_FILE: Final[Path] = ARTIFACTS_DIR / "system_assessment_custom.csv"
 
 # === DEFINE THRESHOLDS ===
